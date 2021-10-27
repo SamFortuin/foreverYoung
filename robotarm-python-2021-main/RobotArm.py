@@ -72,6 +72,8 @@ import random
 # ###########################################################
 
 class RobotArm:
+  #def __init__(self) -> None:
+  #  pass
   _colors = [
     {"name": 'white', 'code': (255,255,255)},
     {"name": 'red', 'code': (255,0,0)},

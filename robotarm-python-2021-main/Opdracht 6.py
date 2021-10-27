@@ -1,5 +1,3 @@
-import sys
-sys.path.append('robotarm-python-2021-main')
 from RobotArm import RobotArm
 
 def robotMoveRight(forMany):
